@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet-async'; // Adjust import to use react-helme
 
 const MetaTags = () => (
   <Helmet>
-    <title data-rh="true">World Covid 19 Data | Covid 19 World Data</title>
+    <title data-rh="true">THEORY OF COMPUTATION</title>
   </Helmet>
 );
 

@@ -73,6 +73,7 @@
     "@types/react": "^16.14.23",
     "@types/react-dom": "^16.9.14",
     "@types/react-helmet": "^6.1.5",
+    "@types/react-router-dom": "^5.3.3",
     "cypress": "^13.13.0",
     "dotenv": "^16.0.0",
     "eslint-plugin-cypress": "^2.12.1",
